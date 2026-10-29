@@ -1,0 +1,1 @@
+O programa pede o limite do cartão e depois entra em um ciclo de registro de compras. Cada compra só é aceita se o cartão tiver saldo suficiente. O ciclo termina quando o usuário decide parar ou quando uma compra é recusada por falta de saldo. Em seguida, o programa exibe as compras realizadas em ordem crescente de valor e o saldo final.
